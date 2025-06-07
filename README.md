@@ -40,5 +40,21 @@ A full-featured task management system with authentication, user management, tas
 - Frontend: HTML / CSS / JavaScript / React 
 - Authentication: JWT / Passport.js
 
+## 🚀 Installation
+
+1. **Clone the repository**
+
+```bash
+git clone https://github.com/Saniyagautam/TaskManagementSystem.git
+
+-For Frontend
+  npm i
+  npm start
+-For Backend
+  npm i
+  npm start
+
+
+
 
 
